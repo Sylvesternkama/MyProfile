@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.top-container {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    height: 400px;
+    padding-top: 200px;
+}
+,bottom-container {
+    display: flex;
+    gap: 100px;
+    margin: 50px;
+}
+
+
+
+
+body {
+    margin: 0;
+}
+.top-container {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    height: 400px;
+    padding-top: 200px;
+}
